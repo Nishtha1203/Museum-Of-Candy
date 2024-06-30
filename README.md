@@ -1,1 +1,2 @@
-# Museum-Of-Candy
+Tech stack: HTML, CSS
+Framework: bootstrap
