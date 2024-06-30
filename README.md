@@ -1,2 +1,2 @@
-Tech stack: HTML, CSS
-Framework: bootstrap
+# Tech stack: HTML, CSS
+# Framework: bootstrap
